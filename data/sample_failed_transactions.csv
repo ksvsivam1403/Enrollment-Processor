@@ -1,0 +1,4 @@
+transaction_id,member_id,first_name,last_name,date_of_birth,ssn,address,policy_number,enrollment_date,error_code
+1,1001,John,Doe,1985-05-12,123-45-6789,123 Main St,,2024-01-01,ERR002
+2,1002,Jane,Smith,,987-65-4321,456 Oak Ave,PN12345,2024-01-02,ERR001
+3,1003,Bob,Johnson,1970-09-30,111-22-3333,,PN54321,2024-01-03,ERR003

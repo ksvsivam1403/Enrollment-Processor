@@ -1,0 +1,6 @@
+crewai
+openai
+pandas
+mcp
+fastmcp
+numpy
