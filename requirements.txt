@@ -3,4 +3,3 @@ openai
 pandas
 mcp
 fastmcp
-numpy
